@@ -1,0 +1,6 @@
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\mapper\OrderItemMapper.java
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\job\PaymentOrderJob.java
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\mapper\OrderShippingMapper.java
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\mapper\OrderMapper.java
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\service\RabbitMQService.java
+D:\ws1803\jt-dubbo-order\src\main\java\com\jt\order\service\OrderServiceImpl.java
